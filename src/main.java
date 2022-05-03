@@ -5,5 +5,6 @@ public class main {
     }
     public void m(){
         System.out.println("youn");
+        int r;
     }
 }
